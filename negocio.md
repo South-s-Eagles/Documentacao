@@ -35,11 +35,9 @@ e tentar manter mais o controller em momentos de stress.
 
 #### insigths
 
-> Fazer análise de pessoas que treinam e não treinam para conseguir tirar insigths e ver se academia tem ou não efeito por exemplo.
-
-> Fazer analise do sono da pessoa e ver se isso influencia no nivel stress
-
-> "Sol"
+- Fazer análise de pessoas que treinam e não treinam para conseguir tirar insigths e ver se academia tem ou não efeito por exemplo.
+- Fazer analise do sono da pessoa e ver se isso influencia no nivel stress
+- "Sol"
 
 ## Conclusão
 
