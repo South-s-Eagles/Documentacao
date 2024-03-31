@@ -1,0 +1,43 @@
+•Revisar os conceitos relacionados à aula
+•Definir os critérios de classificação de redes (área, topologia, uso e ecossistema) que são aplicáveis ao caso de uso de trabalho do grupo 
+•Escrever uma resenha (2 parágrafos) explicando as escolhas feitas e porque elas são as mais favoráveis para o caso de uso de trabalho do grupo
+•Vale NOTA sorriso
+
+Regras:
+
+•Incluir nome completo e RA de todos os participantes
+•Nomenclatura do arquivo: IOT-AULA05-CritériosDeRede-NOMEDOGRUPO.docx (ou .doc / .pdf)
+•Entrega 31/03
+
+
+Crítico
+
+    20 Kbytes
+    Máx. 2 minutos de intervalo
+    Queda de 0,1% de bateria a cada transmissão 
+
+
+
+
+R: 
+Área de Cobertura: 
+WPAN - Wireless personal area network
+Pois nosso devices estarão conectados a o celular da pessoa, que por vez esse estará conectado a internet. No caso o celular tem que estar próximo da pessoa
+para que funcione de maneira correta. Com o celular próximo da pessoa, os dados serão enviados para ele e assim conseguir enviar os dados para nosso broker 
+interno.
+
+Topologia:
+Ponto a ponto (Peer-to-peer) ou Estrela (Star) (Hybrid?)
+Pois iremos conectar diretamente com o celular e não faremos comunicação entre os devices.
+
+
+IOT Crítico: 
+Como vamos fazer a monitoração de saúde de uma pessoa, precisamos conseguir coletar os dados em near-time pois caso algo aconteça com a pessoa, não podemos 
+ter perca de dados, e um buraco na captura, precisamos conseguir coletar os dados rapidamente, com uma alta frequência, e sem perca de dados.
+Temos por exemplo, um sensor de batimento cardíaco que caso aconteça algo com o usuário relacionado a frequência cardíaca, precisamos conseguir identificar
+rapidamente e com precisão, para o sistema poder auxiliar a pessoa.
+Não podemos nos dar o luxo de perder dados no meio do caminho pois qualquer tipo de perca, pode resultar na morte de um usuário ou falta de ação dada a falta
+de dados
+
+
+
