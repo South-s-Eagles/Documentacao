@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T23:58:02.534Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="t_iLbDNHI6bJtf8X6cOj" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T23:58:41.341Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="1z5soXs8lhwznYECaJJO" version="24.2.2" type="github">
   <diagram name="Page-1" id="8D8pK21OQEfpdxgfMbMI">
     <mxGraphModel dx="1730" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="g8IRdyoqjJjmpextpK2z-18" value="último pico dos dados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8IRdyoqjJjmpextpK2z-19" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;GRÁFICOS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
