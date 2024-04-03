@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T22:53:25.634Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Gju7kqP4PSIN174ABqQJ" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T22:54:42.179Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="n71GTSslhhxCfkzY_Zie" version="24.2.2" type="github">
   <diagram name="Page-1" id="8D8pK21OQEfpdxgfMbMI">
     <mxGraphModel dx="880" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="g8IRdyoqjJjmpextpK2z-8" value="Horários com picos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8IRdyoqjJjmpextpK2z-11" value="Comparação do mës" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
