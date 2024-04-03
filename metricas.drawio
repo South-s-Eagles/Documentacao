@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T22:55:55.874Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="EPExikoQ2ldQxzMjvz5u" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T22:56:11.263Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="5yzk41UMxIEXVA2NSYk9" version="24.2.2" type="github">
   <diagram name="Page-1" id="8D8pK21OQEfpdxgfMbMI">
     <mxGraphModel dx="880" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,13 +20,13 @@
           <mxGeometry x="320" y="-320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g8IRdyoqjJjmpextpK2z-8" value="Horários com picos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-230" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g8IRdyoqjJjmpextpK2z-11" value="&lt;div&gt;Comparação do mës&lt;/div&gt;&lt;div&gt;linhas&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-230" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g8IRdyoqjJjmpextpK2z-13" value="&lt;div&gt;Comparação do ano&lt;br&gt;&lt;/div&gt;&lt;div&gt;linhas&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-160" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
