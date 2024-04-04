@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T00:03:39.699Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="L5CGsIFQFUCrJ6rfGmUV" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T00:03:44.349Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Bjpp4yy5EOBQRlya4SGs" version="24.2.2" type="github">
   <diagram name="Page-1" id="8D8pK21OQEfpdxgfMbMI">
     <mxGraphModel dx="880" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="-700" width="643" height="283.69" as="geometry" />
         </mxCell>
         <mxCell id="g8IRdyoqjJjmpextpK2z-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Métrica&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="376.5" y="-390" width="60" height="30" as="geometry" />
+          <mxGeometry x="301.5" y="-370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g8IRdyoqjJjmpextpK2z-5" value="Dias da semana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="196.5" y="-320" width="120" height="60" as="geometry" />
