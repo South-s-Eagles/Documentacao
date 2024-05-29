@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T22:03:00.770Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="a3mul1hjBhiWJMMqC4mJ" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T22:40:20.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="zRoFh6vM4BhEF19iIn7y" version="24.4.9" type="github">
   <diagram name="Page-1" id="8D8pK21OQEfpdxgfMbMI">
-    <mxGraphModel dx="2045" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2044" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,33 @@
         </mxCell>
         <mxCell id="g8IRdyoqjJjmpextpK2z-27" value="&lt;ul style=&quot;font-size: 19px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Ivan Freire de Medeiros &lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Gustavo Nogueira&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Guilherme Coimbra&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Leonardo Tresinari&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Helder&lt;/font&gt; Alvarenga&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="-550" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oJtMebPeRjmzbZkKY4FM-1" value="Taxa de Resposta ao Estresse:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJtMebPeRjmzbZkKY4FM-2" value="V2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="-30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oJtMebPeRjmzbZkKY4FM-4" value="Índice de Estresse Composto (ISC):" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJtMebPeRjmzbZkKY4FM-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Este índice pode ser calculado combinando dados de cortisol, HRV e ondas cerebrais (EEG). Uma diminuição na HRV, um aumento nos níveis de cortisol e mudanças específicas nos padrões de EEG podem ser indicadores de estresse.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="80" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oJtMebPeRjmzbZkKY4FM-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Uma combinação de batimento cardíaco, cortisol e variação da temperatura corporal pode fornecer uma taxa de resposta ao estresse. Aumentos repentinos no batimento cardíaco e cortisol, juntamente com mudanças na temperatura, podem indicar respostas ao estresse agudo.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="80" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oJtMebPeRjmzbZkKY4FM-10" value="&lt;strong&gt;Níveis de Alerta e Fadiga&lt;/strong&gt;:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="241.5" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJtMebPeRjmzbZkKY4FM-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Utilizando dados de EEG e batimento cardíaco, é possível determinar estados de alerta e fadiga. Padrões específicos de EEG combinados com variações no batimento cardíaco podem indicar níveis de fadiga mental e física.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="196.5" y="80" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oJtMebPeRjmzbZkKY4FM-12" value="&lt;strong&gt;Glicose e Estresse Metabólico&lt;/strong&gt;:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="510" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJtMebPeRjmzbZkKY4FM-13" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;A análise dos níveis de glicose em relação aos níveis de cortisol e batimento cardíaco pode fornecer insights sobre o estresse metabólico. Flutuações na glicose associadas ao aumento do cortisol podem indicar estresse fisiológico.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="210" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
