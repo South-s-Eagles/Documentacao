@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T22:40:20.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="zRoFh6vM4BhEF19iIn7y" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T22:41:19.540Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="sJQ7F7_CEU5xvI_P3B3b" version="24.4.9" type="github">
   <diagram name="Page-1" id="8D8pK21OQEfpdxgfMbMI">
     <mxGraphModel dx="2044" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           <mxGeometry x="-65" y="80" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="oJtMebPeRjmzbZkKY4FM-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Uma combinação de batimento cardíaco, cortisol e variação da temperatura corporal pode fornecer uma taxa de resposta ao estresse. Aumentos repentinos no batimento cardíaco e cortisol, juntamente com mudanças na temperatura, podem indicar respostas ao estresse agudo.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-305" y="80" width="210" height="160" as="geometry" />
+          <mxGeometry x="-305" y="90" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="oJtMebPeRjmzbZkKY4FM-10" value="&lt;strong&gt;Níveis de Alerta e Fadiga&lt;/strong&gt;:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="241.5" y="10" width="120" height="60" as="geometry" />
