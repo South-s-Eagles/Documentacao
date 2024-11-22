@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.8">
   <diagram name="Page-1" id="MaGoZw0RhNdyRbQXoPmS">
-    <mxGraphModel dx="4482" dy="1626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10440" dy="4568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,7 +304,7 @@
           <mxGeometry x="-500" y="1873.75" width="419.78" height="337.7" as="geometry" />
         </mxCell>
         <mxCell id="Ze54gSc5gZos9Ghmaq1i-234" value="&lt;div&gt;[idade, sexo, fuma, created_at]&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-1930" y="1139" width="306" height="52" as="geometry" />
+          <mxGeometry x="-1930" y="1138" width="306" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Ze54gSc5gZos9Ghmaq1i-235" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Usuário no último mês&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-1510" y="1625.75" width="202" height="176.5" as="geometry" />
