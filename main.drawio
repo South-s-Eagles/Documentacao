@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.8">
   <diagram name="Page-1" id="MaGoZw0RhNdyRbQXoPmS">
-    <mxGraphModel dx="2910" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4046" dy="2003" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,14 +67,14 @@
         <mxCell id="Ze54gSc5gZos9Ghmaq1i-30" value="DASH DO USUÄRIO sensor específico" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1192" y="-393" width="382" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ze54gSc5gZos9Ghmaq1i-32" value="último valor de glicose" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1387" y="-267" width="205" height="150.5" as="geometry" />
+        <mxCell id="Ze54gSc5gZos9Ghmaq1i-32" value="&lt;div&gt;média do mês atual&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1424" y="-281" width="205" height="150.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ze54gSc5gZos9Ghmaq1i-33" value="último valor de glicose" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1652" y="-267" width="205" height="150.5" as="geometry" />
+        <mxCell id="Ze54gSc5gZos9Ghmaq1i-33" value="&lt;div&gt;horário do dia com &lt;br&gt;&lt;/div&gt;&lt;div&gt;maior valor (pico)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1670.5" y="-281" width="205" height="150.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ze54gSc5gZos9Ghmaq1i-34" value="último valor de glicose" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1945" y="-267" width="205" height="150.5" as="geometry" />
+        <mxCell id="Ze54gSc5gZos9Ghmaq1i-34" value="maior pico" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1909.5" y="-279" width="205" height="150.5" as="geometry" />
         </mxCell>
         <mxCell id="Ze54gSc5gZos9Ghmaq1i-47" value="gglicose" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="2172" y="-342" width="160" height="39" as="geometry" />
@@ -103,9 +103,6 @@
         <mxCell id="Ze54gSc5gZos9Ghmaq1i-65" value="" style="shape=stencil(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);lineShape=1;strokeColor=default;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1480.1373706378208" y="94.13416087656492" width="618.3560638476284" height="155.04619985787505" as="geometry" />
         </mxCell>
-        <mxCell id="Ze54gSc5gZos9Ghmaq1i-66" value="Text" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1779" y="48" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Ze54gSc5gZos9Ghmaq1i-78" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Ze54gSc5gZos9Ghmaq1i-67" target="Ze54gSc5gZos9Ghmaq1i-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -126,6 +123,18 @@
         </mxCell>
         <mxCell id="Ze54gSc5gZos9Ghmaq1i-77" value="ano / ano atual" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="2293" y="549" width="160" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze54gSc5gZos9Ghmaq1i-80" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="2055.25" y="13.5" width="375" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze54gSc5gZos9Ghmaq1i-81" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2202" y="-128.5" width="76" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze54gSc5gZos9Ghmaq1i-82" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2204.75" y="4.5" width="76" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze54gSc5gZos9Ghmaq1i-83" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2202" y="125.5" width="76" height="117" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
